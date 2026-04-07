@@ -1,0 +1,18 @@
+# Environnement virtuel
+venv/
+__pycache__/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Fichiers de données (optionnel)
+*.docx
+*.pdf
